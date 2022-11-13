@@ -18,10 +18,10 @@ int main()
     int c,y,addcon,a=1;
     int choice,v,pos;
     char b[50];
-    strcpy(sp[1].name,"PRITI MAM");
-    strcpy(sp[1].num,"8895432047");
-    strcpy(sp[1].mail,"PritiMam222@gmail.com");
-    strcpy(sp[1].add,"Bhubaneshwar,Odisha");
+    strcpy(sp[1].name,"ARUN BARIK");
+    strcpy(sp[1].num,"9337553407");
+    strcpy(sp[1].mail,"arunbarik.kjr143@gmail.com");
+    strcpy(sp[1].add,"Keonjhar,Odisha");
     i++;
    while(a==1)
       {
